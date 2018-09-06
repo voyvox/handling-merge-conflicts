@@ -1,0 +1,1 @@
+var conflictingMessage = "I'm going for gasps"
